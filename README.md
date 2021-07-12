@@ -2,7 +2,9 @@
 
 Olá, bem vindo ao meu livro de receitas :cake:
 
-- Cuca de Banana
+- Cuca de Banana - deliciosa
+
+  
 
 
 
